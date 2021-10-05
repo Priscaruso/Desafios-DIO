@@ -14,6 +14,8 @@ For this conversion, it's used the table below:
 |    61 to 85     |       B      |
 |    86 to 100    |       A      |
 
+Desafio2_DIO.py : A task that wants you to write a code that shows the first ten values of a vector in the format N[i] = x. The first value of x is equal to the first integer input value that the user types and the next values of x will be equal to the double of the previous ones. 
+
 
 
 
