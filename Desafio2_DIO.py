@@ -1,4 +1,4 @@
-#enter a input value
+#enter a integer input value
 x = int(input())
 
 #print the first ten values of a vetor in the format N[i] = x, where the subsequent value of x
