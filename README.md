@@ -19,7 +19,9 @@ Desafio2_DIO.py : A task that wants you to write a code that shows the first ten
 
 Desafio3_DIO.py: An exercise that requests you to create a code that prints the value of the triangle perimeter if you enter 3 input values that 
 attend the condition for being a triangle. If these values don't attend the triangle condition, then the output will be the value of the trapezium area.
-The triangle perimeter is the sum of the triangle sizes. 
+The triangle perimeter is the sum of the triangle sizes. The trapezium area is calculed by the formula below:
+
+[(B+b).h]/2 , where B is the first, b is the second and h is the third input value. 
 
 
 
