@@ -17,7 +17,9 @@ For this conversion, it's used the table below:
 Desafio2_DIO.py : A task that wants you to write a code that shows the first ten values of a vector in the format N[i] = x. The first value of x is equal to the first integer input value that the user types and the next values of x will be equal to the double of the previous ones. 
 
 
-
+Desafio3_DIO.py: An exercise that requests you to create a code that prints the value of the triangle perimeter if you enter 3 input values that 
+attend the condition for being a triangle. If these values don't attend the triangle condition, then the output will be the value of the trapezium area.
+The triangle perimeter is the sum of the triangle sizes. 
 
 
 
