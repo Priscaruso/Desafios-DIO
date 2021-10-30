@@ -28,5 +28,6 @@ Desafio_numero_impar.py : A challenge that asks the user to enter a positive int
 
 desafio_numeros_pares.py: A challenge thats asks the user to enter a positive integer value (x) and shows the even numbers from 0 to x, including x if is the case.
 
+Desafio_folha_de_pagamento.py: A task that wants you to create a code that shows the number of the employee and its corresponding salary. The user enters the number of the employee, the worked hours and how much it receives per worked hour.
 
 
