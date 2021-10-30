@@ -32,3 +32,4 @@ Desafio_folha_de_pagamento.py: A task that wants you to create a code that shows
 
 Desafio_validação_de_notas.py: A task that requests you to write a code to validate the student's grades. The user enters the first and the second student's grade that must be from 0 to 10. If the grade doesn't meet this requirement, the user will be prompted to enter a validate grade again. The code calculates and shows the student average grade and asks if the user wants to make a new calculus by typing the option '1' or not by typing '2'. 
 
+desafio_fibonacci_facil: A challenge that asks you to create a code to exihibit the fibonacci sequence. The user enters the number of elements it wants to see from the sequence. 
