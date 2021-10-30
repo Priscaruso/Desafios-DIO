@@ -30,4 +30,5 @@ desafio_numeros_pares.py: A challenge thats asks the user to enter a positive in
 
 Desafio_folha_de_pagamento.py: A task that wants you to create a code that shows the number of the employee and its corresponding salary. The user enters the number of the employee, the worked hours and how much it receives per worked hour.
 
+Desafio_validação_de_notas.py: A task that requests you to write a code to validate the student's grades. The user enters the first and the second student's grade that must be from 0 to 10. If the grade doesn't meet this requirement, the user will be prompted to enter a validate grade again. The code calculates and shows the student average grade and asks if the user wants to make a new calculus by typing the option '1' or not by typing '2'. 
 
