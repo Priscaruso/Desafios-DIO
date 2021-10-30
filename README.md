@@ -24,5 +24,9 @@ The triangle perimeter is the sum of the triangle sizes. The trapezium area is c
 [(B+b).h]/2 , where B is the first, b is the second and h is the third input value. 
 
 
-Desafio_numero_impar.py : A challenge that asks the user to enter a positive integer value (x) and displays the odd numbers from 1 to x, including x if is the case. 
+Desafio_numero_impar.py : A challenge that asks the user to enter a positive integer value (x) and displays the odd numbers from 1 to x, including x if is the case.
+
+desafio_numeros_pares.py: A challenge thats asks the user to enter a positive integer value (x) and shows the even numbers from 0 to x, including x if is the case.
+
+
 
